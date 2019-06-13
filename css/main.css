@@ -342,3 +342,33 @@ animation: spin 1.5s linear infinite
     0% { transform: rotate(0deg) translateZ(0); }
     100% { transform: rotate(360deg) translateZ(0); }
 }
+
+.deathsquad {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+
+* {
+    box-sizing: border-box;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

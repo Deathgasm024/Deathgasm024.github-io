@@ -1,0 +1,329 @@
+<!doctype html>
+<html class="no-js" lang="eng">
+    <head>
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-111722080-1"></script>
+        <script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'UA-111722080-1');
+        </script>
+        <meta charset="utf-8">
+        <meta http-equiv="x-ua-compatible" content="ie=edge">
+        <title>Extermination Dismemberment | Official Website</title>
+        <meta name="description" content="Official website of Extermination Dismemberment, Slamming Brutal Death Metal from Minsk, Belarus">
+        <meta name="viewport" content="width=1024">
+        <meta property="og:title" content="Extermination Dismemberment">
+        <meta property="og:description" content="Official website of Extermination Dismemberment, Slamming Brutal Death Metal from Minsk, Belarus">
+        <meta property="og:image" content="img/preview.jpg">
+        <meta property="og:url" content="https://www.exterminationdismemberment.com">
+        <meta name="twitter:title" content="Extermination Dismemberment">
+        <meta name="twitter:description" content="Official website of Extermination Dismemberment, Slamming Brutal Death Metal from Minsk, Belarus">
+        <meta name="twitter:image" content="img/preview.jpg">
+        <meta name="twitter:card" content="summary_large_image">
+        <meta property="og:site_name" content="Extermination Dismemberment">
+        <meta name="twitter:image:alt" content="Extermination Dismemberment | Official Website">
+        <link rel="apple-touch-icon" sizes="57x57" href="apple-icon-57x57.png">
+        <link rel="apple-touch-icon" sizes="60x60" href="apple-icon-60x60.png">
+        <link rel="apple-touch-icon" sizes="72x72" href="apple-icon-72x72.png">
+        <link rel="apple-touch-icon" sizes="76x76" href="apple-icon-76x76.png">
+        <link rel="apple-touch-icon" sizes="114x114" href="apple-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="apple-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="apple-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="apple-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="apple-icon-180x180.png">
+        <link rel="icon" type="image/png" sizes="192x192"  href="android-icon-192x192.png">
+        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">
+        <link rel="icon" type="image/png" sizes="96x96" href="favicon-96x96.png">
+        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">
+        <link rel="manifest" href="manifest.json">
+        <meta name="msapplication-TileColor" content="#ffffff">
+        <meta name="msapplication-TileImage" content="ms-icon-144x144.png">
+        <meta name="theme-color" content="#ffffff">
+        <link href="https://fonts.googleapis.com/css?family=Open+Sans" rel="stylesheet">
+        <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+        <!-- build:css build/style.min.css -->
+        <link rel="stylesheet" href="css/reset.css">
+        <link rel="stylesheet" href="css/main.css">
+        <!-- /build -->
+    </head>
+    <body class="_locked _loading">
+
+        <div class="load-overlay">
+            <div class="load-overlay-container">
+                <img src="img/ed_logo-new.svg" alt="" class="load-overlay-img"><br/>
+                <div class="loader"></div>
+            </div>
+        </div>
+
+        <header>
+            <menu class="top-menu">
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#">Home</a></li>
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#music">Music</a></li>
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#tour">Tour</a></li>
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#photos">Photos</a></li>
+                <li class="top-menu-i"><h1><a class="top-menu-i-a-logo" href="#"><img class="top-menu-i-img" src="img/ed_logo-new.svg" alt="Extermination Dismemberment"/></a></h1></li>
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#bio">Biography</a></li>
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#videos">Videos</a></li>
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#store">Store</a></li>
+                <li class="top-menu-i"><a class="top-menu-i-a" href="#contacts">Contact</a></li>
+            </menu>
+        </header>
+
+        <section class="intro">
+            <!--<img src="img/preview.jpg" alt="">-->
+            <!--<div class="intro-video-underlay"></div>-->
+            <video class="intro-video" id="intro-video" preload="auto" autoplay loop muted>
+                <source type="video/mp4" src="video/ed_banner.mp4">
+            </video>
+            <div class="intro-video-overlay"></div>
+
+            <!--<img src="img/live1.png" alt="" class="intro-banner">-->
+            <!--<img class="ed-logo-back" src="img/ed_logo_white_1100.png" alt=""/>-->
+
+            <img class="ed-logo-back" src="img/ed_logo-new.svg" alt="Extermination Dismemberment Logo"/>
+            <img class="ed-logo" src="img/ed_logo-new_grad.svg" alt="Extermination Dismemberment Logo"/>
+
+            <div class="intro-footer">
+                <ul class="intro-footer-list">
+                    <li class="intro-footer-list-i _fb"><a target="_blank" href="https://www.facebook.com/edsbdm"><img src="img/icon-fb.png" alt="Extermination Dismemberment Facebook"></a></li>
+                    <li class="intro-footer-list-i _bc"><a target="_blank" href="https://edismemberment.bandcamp.com/music"><img src="img/icon-bc.png" alt="Extermination Dismemberment Bandcamp"></a></li>
+                    <li class="intro-footer-list-i _in"><a target="_blank" href="https://www.instagram.com/edismemberment"><img src="img/icon-in.png" alt="Extermination Dismemberment Instagram"></a></li>
+                    <li class="intro-footer-list-i _tw"><a target="_blank" href="https://twitter.com/edsbdm"><img src="img/icon-tw.png" alt="Extermination Dismemberment Twitter"></a></li>
+                    <li class="intro-footer-list-i _yt"><a target="_blank" href="https://www.youtube.com/user/EDismemberment"><img src="img/icon-yt.png" alt="Extermination Dismemberment Youtube"></a></li>
+                    <li class="intro-footer-list-i _vk"><a target="_blank" href="https://vk.com/extermination_dismemberment"><img src="img/icon-vk.png" alt="Extermination Dismemberment VK"></a></li>
+                </ul>
+            </div>
+        </section>
+
+        <!--<div class="hero">-->
+            <!--<iframe class="hero-video" width="854" height="480" src="https://www.youtube.com/embed/bXHbPyYxuoE" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>-->
+        <!--</div>-->
+
+        <section class="page music _grey" id="music">
+            <!--<img class="music-bg" src="img/albums/Butcher-Basement.jpg" alt="">-->
+            <h2 class="page-title">Music</h2>
+            <iframe class="videos-list-item" style="margin-bottom:50px; display:inline-block;" width="900" height="505" src="https://www.youtube.com/embed/bXHbPyYxuoE?rel=0" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+            <div class="music-list">
+                <div class="music-list-item _active" id="serial-urbicide">
+                    <div class="music-list-item-leftcol">
+                        <div class="music-list-item-artwork">
+                            <img class="music-list-item-artwork-img" src="img/albums/Serial-Urbicide.jpg" alt="Extermination Dismemberment - Omnivore">
+                        </div>
+                        <div class="music-list-switch">
+                            <div class="music-list-switch-item _active" data-id="serial-urbicide">
+                                <img class="music-list-switch-item-img" src="img/albums/Serial-Urbicide.jpg" alt="Extermination Dismemberment - Serial Urbicide Thumbnail">
+                            </div>
+                            <div class="music-list-switch-item" data-id="butcher-basement">
+                                <img class="music-list-switch-item-img" src="img/albums/Butcher-Basement.jpg" alt="Extermination Dismemberment - Butcher Basement Thumbnail">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="music-list-item-tracklist">
+                        <h3 class="music-list-item-tracklist-title">Serial Urbicide</h3>
+                        <h5 class="music-list-item-tracklist-year">2013, Amputated Vein Records</h5>
+                        <!--<iframe class="music-list-item-tracklist-spotify" src="https://open.spotify.com/embed?uri=spotify%3Aalbum%3A37YWZtJOfrs60c6lzNURfd" ></iframe>-->
+                        <iframe class="music-list-item-tracklist-embed" src="https://bandcamp.com/EmbeddedPlayer/album=3354084468/size=large/bgcol=333333/linkcol=ffffff/artwork=none/transparent=true/" seamless><a href="http://edismemberment.bandcamp.com/album/serial-urbicide">Serial Urbicide by Extermination Dismemberment</a></iframe>
+                        <!--<ol class="music-list-item-tracklist-songs">-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Evisceration Conceiving <span class="music-list-item-tracklist-songs-item-time">(01:11)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Disemboweled Engorgement <span class="music-list-item-tracklist-songs-item-time">(04:01)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Gutted Face <span class="music-list-item-tracklist-songs-item-time">(03:08)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Serial Urbicide <span class="music-list-item-tracklist-songs-item-time">(03:59)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Deconstructive Parasite <span class="music-list-item-tracklist-songs-item-time">(05:16)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Survival <span class="music-list-item-tracklist-songs-item-time">(03:32)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Devastation Squad <span class="music-list-item-tracklist-songs-item-time">(03:22)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Carnivore Outraged <span class="music-list-item-tracklist-songs-item-time">(03:37)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Bloodbath Religion <span class="music-list-item-tracklist-songs-item-time">(03:50)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Human Holocaust <span class="music-list-item-tracklist-songs-item-time">(06:20)</span></li>-->
+                        <!--</ol>-->
+                        <div class="music-list-item-tracklist-links">
+                            <a target="_blank" href="https://open.spotify.com/album/37YWZtJOfrs60c6lzNURfd" class="music-list-item-tracklist-links-item"><img src="img/icon-spotify.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://edismemberment.bandcamp.com/album/serial-urbicide" class="music-list-item-tracklist-links-item"><img src="img/icon-bandcamp.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://itunes.apple.com/us/album/serial-urbicide/id1231175307" class="music-list-item-tracklist-links-item"><img src="img/icon-itunes.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://play.google.com/store/music/album/Extermination_Dismemberment_Serial_Urbicide?id=Bg4o5ssparnyazg5ta33sryrxxu" class="music-list-item-tracklist-links-item"><img src="img/icon-googleplay.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://www.amazon.com/gp/product/B071178JC4/" class="music-list-item-tracklist-links-item"><img src="img/icon-amazon.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                        </div>
+                    </div>
+                </div>
+                <div class="music-list-item" id="butcher-basement">
+                    <div class="music-list-item-leftcol">
+                        <div class="music-list-item-artwork">
+                            <img class="music-list-item-artwork-img" src="img/albums/Butcher-Basement.jpg" alt="Extermination Dismemberment - Butcher Basement">
+                        </div>
+                        <div class="music-list-switch">
+                            <div class="music-list-switch-item _active" data-id="serial-urbicide">
+                                <img class="music-list-switch-item-img" src="img/albums/Serial-Urbicide.jpg" alt="Extermination Dismemberment - Serial Urbicide Thumbnail">
+                            </div>
+                            <div class="music-list-switch-item" data-id="butcher-basement">
+                                <img class="music-list-switch-item-img" src="img/albums/Butcher-Basement.jpg" alt="Extermination Dismemberment - Butcher Basement Thumbnail">
+                            </div>
+                        </div>
+                    </div>
+                    <div class="music-list-item-tracklist">
+                        <h3 class="music-list-item-tracklist-title">Butcher Basement</h3>
+                        <h5 class="music-list-item-tracklist-year">2010, Imbecil Entertainment Records / Morbid Generation Records</h5>
+                        <!--<iframe class="music-list-item-tracklist-spotify" src="https://open.spotify.com/embed?uri=spotify%3Aalbum%3A6sHFXfYiKZheEtMhSkq4dL" frameborder="0" allowtransparency="true"></iframe>-->
+                        <iframe class="music-list-item-tracklist-embed" src="https://bandcamp.com/EmbeddedPlayer/album=2115483825/size=large/bgcol=333333/linkcol=ffffff/artwork=none/transparent=true/" seamless><a href="http://edismemberment.bandcamp.com/album/butcher-basement">Butcher Basement by Extermination Dismemberment</a></iframe>
+                        <!--<ol class="music-list-item-tracklist-songs">-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Commencement Of End <span class="music-list-item-tracklist-songs-item-time">(01:21)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Slaughterer Chainsaw <span class="music-list-item-tracklist-songs-item-time">(03:41)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Resurrectionist Blasphemous <span class="music-list-item-tracklist-songs-item-time">(02:58)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Merciless Infanticide <span class="music-list-item-tracklist-songs-item-time">(03:18)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Brutality Great Battle <span class="music-list-item-tracklist-songs-item-time">(02:31)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Rotten Entrails <span class="music-list-item-tracklist-songs-item-time">(02:10)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Butcher Basement <span class="music-list-item-tracklist-songs-item-time">(04:17)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Gastrointestinal Rupture <span class="music-list-item-tracklist-songs-item-time">(02:57)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Bulldozer Massacre <span class="music-list-item-tracklist-songs-item-time">(06:21)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">My Bloody Show <span class="music-list-item-tracklist-songs-item-time">(02:29)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Omnivorous Sanctum <span class="music-list-item-tracklist-songs-item-time">(02:56)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Ogre Orchardman <span class="music-list-item-tracklist-songs-item-time">(03:20)</span></li>-->
+                            <!--<li class="music-list-item-tracklist-songs-item">Ophthalmic Eyeing <span class="music-list-item-tracklist-songs-item-time">(02:45)</span></li>-->
+                        <!--</ol>-->
+                        <div class="music-list-item-tracklist-links">
+                            <a target="_blank" href="https://open.spotify.com/album/6sHFXfYiKZheEtMhSkq4dL" class="music-list-item-tracklist-links-item"><img src="img/icon-spotify.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://edismemberment.bandcamp.com/album/butcher-basement" class="music-list-item-tracklist-links-item"><img src="img/icon-bandcamp.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://itunes.apple.com/us/album/butcher-basement/id1231149286" class="music-list-item-tracklist-links-item"><img src="img/icon-itunes.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://play.google.com/store/music/album/Extermination_Dismemberment_Butcher_Basement?id=Bi54pnuywcvfc6qqzkzse2n37z4" class="music-list-item-tracklist-links-item"><img src="img/icon-googleplay.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                            <a target="_blank" href="https://www.amazon.com/gp/product/B0722JZP7B/" class="music-list-item-tracklist-links-item"><img src="img/icon-amazon.png" alt="" class="music-list-item-tracklist-links-item-icon"></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+
+        <section class="page tour" id="tour">
+            <h2 class="page-title">Upcoming Shows</h2>
+
+            <table class="tour-dates">
+                <thead>
+                    <tr class="tour-dates-row">
+                        <td class="tour-dates-row-cell _date">Date</td>
+                        <td class="tour-dates-row-cell _venue">Location</td>
+                        <td class="tour-dates-row-cell _location">City</td>
+                        <td class="tour-dates-row-cell _link">Links</td>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr class="tour-dates-row">
+                        <td class="tour-dates-row-cell _date"><time>15.08.19</time></td>
+                        <td class="tour-dates-row-cell _venue">Motocultor Festival Open Air</td>
+                        <td class="tour-dates-row-cell _location">Saint-Nolff, France</td>
+                        <td class="tour-dates-row-cell _link">
+                            <a target="_blank" class="tour-dates-row-cell-link" href="https://web.digitick.com/ext/billetterie5/index.php?site=motocultor&fbclid=IwAR3I8CId3A6gPPIwMevgNchNpEeTfS_ZoEBamVMJjmuh19avAVqn8AX1Dqc">Tickets</a>
+                            <a target="_blank" class="tour-dates-row-cell-link" href="https://www.facebook.com/events/265680747319694/">FB Event</a>
+                        </td>
+                    </tr>
+                    <tr class="tour-dates-row">
+                        <td class="tour-dates-row-cell _date"><time>22.08.19</time></td>
+                        <td class="tour-dates-row-cell _venue">Deathfeast Open Air</td>
+                        <td class="tour-dates-row-cell _location">Andernach, Germany</td>
+                        <td class="tour-dates-row-cell _link">
+                            <a target="_blank" class="tour-dates-row-cell-link" href="https://www.deathfeast-openair.de/tickets/?fbclid=IwAR0QMJibM_1hwfMfC0I4numxRhgQjVgmb6mhPhxRF2qaWMJgQ6M5T0uDOkY">Tickets</a>
+                            <a target="_blank" class="tour-dates-row-cell-link" href="https://www.facebook.com/events/1943245442398897/">FB Event</a>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
+
+        </section>
+        <!--<section class="page photos _grey" id="photos">
+            <h2 class="page-title">Photos</h2>
+            <div class="instafeed" id="instafeed"></div>
+        </section>-->
+
+        <section class="page bio" id="bio">
+            <!--<img class="ed-logo-back" src="img/ed_logo_white_1100.png" alt=""/>-->
+            <img class="ed-logo-back _visible" src="img/ed_logo-new.svg" alt="Extermination Dismemberment Logo"/>
+            <h2 class="page-title">Biography</h2>
+            <article class="bio-text">
+                <div class="bio-photo-widget" id="photo-widget">
+                    <div class="bio-photo-widget-band-sprite"></div>
+                    <img class="bio-photo-widget-img" src="img/band.png" alt="Extermination Dismemberment Lineup" usemap="#bio-photo-widget-map">
+                    <map name="bio-photo-widget-map">
+                        <area class="bio-photo-widget-map-area" target="" alt="" title="" href="#bio" coords="15,431,16,403,21,373,30,357,21,341,4,308,1,282,0,258,6,218,19,182,37,146,39,136,49,129,82,129,105,122,97,102,89,77,98,51,123,33,144,34,159,52,165,76,159,95,156,107,148,130,149,151,172,167,166,206,162,235,159,263,167,296,175,322,173,357,176,374,180,388,178,420,178,434" shape="poly">
+                        <area class="bio-photo-widget-map-area" target="" alt="" title="" href="#bio" coords="179,432,181,387,174,360,176,333,168,290,159,265,169,197,175,161,185,130,222,115,235,111,237,95,233,68,239,64,240,41,261,19,279,16,298,31,307,49,306,67,309,76,302,101,296,114,310,134,330,149,345,161,347,172,336,252,335,314,332,371,329,390,340,412,344,433" shape="poly">
+                        <area class="bio-photo-widget-map-area" target="" alt="" title="" href="#bio" coords="346,431,340,406,330,391,334,370,336,317,338,249,345,203,348,175,360,154,369,145,358,133,372,129,399,119,393,87,377,64,378,32,385,6,419,0,436,8,444,27,446,39,456,45,453,60,448,91,456,101,485,105,511,112,524,138,546,199,559,252,549,302,541,352,526,370,531,432" shape="poly">
+                        <area class="bio-photo-widget-map-area" target="" alt="" title="" href="#bio" coords="533,431,528,371,544,351,561,252,528,140,537,131,546,122,539,98,529,89,527,53,541,28,563,24,584,38,592,52,598,70,595,115,613,119,633,120,668,149,691,193,699,226,695,252,698,270,674,303,684,327,679,339,691,380,692,412,699,434" shape="poly">
+                    </map>
+                </div>
+                <p><i>"Slamming Brutal Death Metal brought to a whole new level." – Amputated Vein Records</i></p>
+                <p><strong>Extermination Dismemberment</strong> is a <strong>Slamming Brutal Death Metal</strong> band from Minsk, Belarus. The band's current lineup includes Arseniy Kovalchuk (guitar), Vladislav Martirosov (vocals), Viktor Kanashevich (bass) and Denis Poluyan (drums). The band was founded in October 2009 by guitarist Arseniy Kovalchuk and vocalist Valeriy Kozhemyako. They started working on the debut album at once. During the process, the band found two more members: Viktor Kanashevich (bass) and Vladislav Martirosov (drums). Valeriy Kozhemyako left the band in 2013 and was replaced by the band's drummer Vladislav Martirosov in 2016. Soon after that Denis Poluyan joined the band on drums.</p>
+                <p>The band's debut album Butcher Basement was released in December 2010 by the Ukrainian label Imbecil Entertainment Records. Having started actively playing shows, Extermination Dismemberment immediately started writing new material and three years after their debut album, on May 27th 2013, the second full-length album Serial Urbicide was released by the famous Japanese label Amputated Vein Records. Immediately after the release, Serial Urbicide collected a lot of positive reviews and became album of the year according to SBDC. To this day, Serial Urbicide stays in fans' playlists and continues to gather new audiences around the world.</p>
+            </article>
+        </section>
+        <section class="page videos _grey" id="videos">
+            <h2 class="page-title">Videos</h2>
+            <div class="videos-list">
+                <iframe class="videos-list-item _active" width="854" height="480" src="https://www.youtube.com/embed/bXHbPyYxuoE?rel=0" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+                <iframe class="videos-list-item" width="854" height="480" src="https://www.youtube.com/embed/-6f_Mwh3dpE?rel=0" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+                <iframe class="videos-list-item" width="854" height="480" src="https://www.youtube.com/embed/UKzN8RNChD4?rel=0" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+                <iframe class="videos-list-item" width="854" height="480" src="https://www.youtube.com/embed/N8BtpLNkSoE?rel=0" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+                <iframe class="videos-list-item" width="854" height="480" src="https://www.youtube.com/embed/8j9TPq0r0n0?rel=0" frameborder="0" allow="autoplay" allowfullscreen></iframe>
+            </div>
+            <div class="videos-switch">
+
+            </div>
+        </section>
+
+        <section class="page store" id="store">
+            <h2 class="page-title">Store</h2>
+            <a target="_blank" class="store-link" href="https://edismemberment.bandcamp.com/merch">
+                <h3 class="page-subtitle">Click to go to the official worldwide store</h3>
+                <img class="store-world" src="img/world.png" alt="">
+            </a>
+        </section>
+        <footer class="page contacts _grey" id="contacts">
+            <h2 class="page-title">Contact</h2>
+            <!--<div class="contacts-content">-->
+                <!--<p class="contacts-content-text">Contact us on <a target="_blank" href="https://www.facebook.com/edsbdm">Facebook</a> or write to <a class="contacts-content-email" href="mailto:edsbdm@gmail.com">edsbdm@gmail.com</a></p>-->
+            <!--</div>-->
+            <div class="contact-block">
+                <div class="contact-title">BOOKING & MANAGEMENT</div>
+                <div class="contact-company">THE FLAMING ARTS AGENCY</div>
+                <div class="contact-name">JON KNIGHT: <a class="contact-link" href="mailto:jon@theflamingarts.eu">JON@THEFLAMINGARTS.EU</a></div>
+
+                <!-- <img src="img/TFAA_Logo.png" alt="" class="contact-block-img"> -->
+            </div>
+            <div class="intro-footer">
+                <ul class="intro-footer-list">
+                    <li class="intro-footer-list-i _fb"><a target="_blank" href="https://www.facebook.com/edsbdm"><img src="img/icon-fb.png" alt="Extermination Dismemberment Facebook"></a></li>
+                    <li class="intro-footer-list-i _bc"><a target="_blank" href="https://edismemberment.bandcamp.com/music/"><img src="img/icon-bc.png" alt="Extermination Dismemberment Bandcamp"></a></li>
+                    <li class="intro-footer-list-i _in"><a target="_blank" href="https://www.instagram.com/edismemberment"><img src="img/icon-in.png" alt="Extermination Dismemberment Instagram"></a></li>
+                    <li class="intro-footer-list-i _tw"><a target="_blank" href="https://twitter.com/edsbdm"><img src="img/icon-tw.png" alt="Extermination Dismemberment Twitter"></a></li>
+                    <li class="intro-footer-list-i _yt"><a target="_blank" href="https://www.youtube.com/user/EDismemberment"><img src="img/icon-yt.png" alt="Extermination Dismemberment Youtbe"></a></li>
+                    <li class="intro-footer-list-i _vk"><a target="_blank" href="https://vk.com/extermination_dismemberment"><img src="img/icon-vk.png" alt="Extermination Dismemberment VK"></a></li>
+                </ul>
+            </div>
+            <div class="contacts-copyright">Copyright © Extermination Dismemberment <script>var now = new Date(); document.write(' '+now.getFullYear().toString());</script>. All rights reserved.</div>
+        </footer>
+
+        <div class="popup-bg">
+            <div class="popup">
+                <img class="popup-close" src="img/close-icon.svg" alt="Close">
+                <div class="popup-photo-img-container"></div>
+                <div class="popup-content">
+                    <h4 class="popup-title"></h4>
+                    <p class="popup-info"></p>
+                    <div class="popup-text"></div>
+                    <div class="popup-logos">
+                        <h6 class="popup-logos-title">Proudly endorsing:</h6>
+                        <div class="popup-logos-container"></div>
+                    </div>
+                    <div class="popup-links">
+                        <h6 class="popup-links-title">Follow him on:</h6>
+                        <div class="popup-links-container"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+        <!-- build:js build/app.min.js -->
+        <script src="js/plugins.js"></script>
+        <script src="js/main.js"></script>
+        <!-- /build -->
+
+
+
+    </body>
+</html>
